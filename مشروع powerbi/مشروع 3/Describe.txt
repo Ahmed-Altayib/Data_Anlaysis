@@ -1,5 +1,3 @@
-I can analyze data and prepare a report that contributes to taking actions that help solve business problems
-Provide me with the necessary information. I am waiting for you
 
 #Data_Analysis
 #powerBi
