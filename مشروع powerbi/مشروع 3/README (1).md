@@ -1,4 +1,12 @@
-# Saudi-league
-
-In this notebook , I have deepen in the data to get alot of insights about Saudi Professional league .
-I did Data Cleaning with python , therefore I have used the cleaned data into power bi to get smart visualizations.
+# Order Table Dashboard
+### Data_Analysis
+### powerBi
+### Excel
+- I cleaned the data using Excel.
+- I added columns for the data (COGS,ValueDiscount).
+- I uploaded the data and worked on it in powerbi.
+- At the top of the screen is a description of the total number of sales, profits, number of customers, and quantities.
+- Describe our top ten customers in purchasing transactions.
+- Describe the number of customers in terms of regions.
+- Describe the number of sales by year and quarter.
+- Description of the product subcategory by number of delivery days.
