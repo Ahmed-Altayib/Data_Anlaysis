@@ -1,4 +1,6 @@
-# Saudi-league
+# Sales
 
-In this notebook , I have deepen in the data to get alot of insights about Saudi Professional league .
-I did Data Cleaning with python , therefore I have used the cleaned data into power bi to get smart visualizations.
+I cleaned the data using DAX language
+I created a simple definition of the data in order to obtain useful information from it
+
+I uploaded a file called newsales, which is the same data after the update starting from the year 2020 to 2030.
